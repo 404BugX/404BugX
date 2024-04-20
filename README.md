@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @404BugX
+- 👀 I’m interested in coding !
+- I’m currently learning lungage python and c.
